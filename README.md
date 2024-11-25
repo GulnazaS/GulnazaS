@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/pudgypenguins-computer-developer-binary-ua7vVw9awZKWwLSYpW/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTl6ODhoZnUzYmRsMHhkZmI0cXRlaTk2cDBia2lwdnhvM2czNG5kNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif" width="100"/>
 </div>
 
 <div id="badges">
@@ -15,3 +15,5 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+
