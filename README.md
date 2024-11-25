@@ -14,15 +14,18 @@
   </a>
 </div>
 
-## Hi there 👋
+## Всем привет! 👋
+### :woman_technologist: Обо мне :
+Меня зовут Гульназ
+:telescope: Я разработчик нейросетей и инженер машинного обучения.
+🔍 Интересы:  
+Я интересуюсь различными областями применения машинного обучения, включая:
+Компьютерное зрение  
+Обработка естественного языка  
+Рекомендательные системы
+GAN
 
-:telescope: I’m working as a Machine Learning Engineer.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Языки программирования и Стек :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line-wordmark.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
@@ -40,4 +43,6 @@
 </div>
 
 ### :fire: My Stats : 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GulnazaS&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GulnazaS&theme=light&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GulnazaS&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
