@@ -2,6 +2,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTl6ODhoZnUzYmRsMHhkZmI0cXRlaTk2cDBia2lwdnhvM2czNG5kNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ua7vVw9awZKWwLSYpW/giphy.gif" width="300"/>
 </div>
 
+<div>
 ## Всем привет! 👋
 ### :woman_technologist: Обо мне :
 Меня зовут Гульназ!
@@ -13,6 +14,7 @@
 Обработка естественного языка  
 Рекомендательные системы
 GAN
+</div>
 
 ### :hammer_and_wrench: Языки программирования и Стек :
 <div>
