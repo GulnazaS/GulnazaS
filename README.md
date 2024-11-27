@@ -15,7 +15,10 @@
 * GAN
 * Глубокое обучение
 
-### :import { BriefcaseMIcon } from '@alfalab/icons-glyph/BriefcaseMIcon' Мои PET-проекты
+### :sparkles: Мои PET-проекты
+* Классификатор снимков флюорографии
+* Чат-бот в телеграм
+* Распознавание фейковых новостей
 
 ### :hammer_and_wrench: Языки программирования и Стек :
 <div>
