@@ -24,7 +24,9 @@
   Ссылка на репозиторий: https://github.com/GulnazaS/Fake-or-real-news
 * Определение болезни Паркинсона
   Ссылка на репозиторий: https://github.com/GulnazaS/parkinsons-disease-detector
-  | Command | Description |
+
+ 
+ | Command | Description |
 | --- | --- |
 | git status | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
