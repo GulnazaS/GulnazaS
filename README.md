@@ -15,6 +15,8 @@
 * GAN
 * Глубокое обучение
 
+### :import { BriefcaseMIcon } from '@alfalab/icons-glyph/BriefcaseMIcon' Мои PET-проекты
+
 ### :hammer_and_wrench: Языки программирования и Стек :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -32,7 +34,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### :fire: My Stats : 
+### :fire: Моя статистика : 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GulnazaS&theme=light&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GulnazaS&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
