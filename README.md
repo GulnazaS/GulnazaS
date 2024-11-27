@@ -16,10 +16,11 @@
 * Глубокое обучение
 
 ### :sparkles: Мои PET-проекты
-* Классификатор снимков флюорографии
-* Чат-бот в телеграм
-* Распознавание фейковых новостей
-
+* Классификатор снимков флюорографии (Определение пневмонии на снимках флюорографии при помощи нейросети) Ссылка на репозиторий: https://github.com/GulnazaS/test_case
+* Чат-бот в телеграм (Квиз в телеграм, приобщающий к расширению кругозора о капибарах) Ссылка на репозиторий:  https://github.com/GulnazaS/capy_bot
+* Распознавание фейковых новостей  Ссылка на репозиторий: https://github.com/GulnazaS/Fake-or-real-news
+* Определение болезни Паркинсона Ссылка на репозиторий: https://github.com/GulnazaS/parkinsons-disease-detector
+  
 ### :hammer_and_wrench: Языки программирования и Стек :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
