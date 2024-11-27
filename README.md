@@ -16,20 +16,13 @@
 * Глубокое обучение
 
 ### :sparkles: Мои PET-проекты
-* Классификатор снимков флюорографии (Определение пневмонии на снимках флюорографии при помощи нейросети)
-   Ссылка на репозиторий: https://github.com/GulnazaS/test_case
-* Чат-бот в телеграм (Квиз в телеграм, приобщающий к расширению кругозора о капибарах)
-  Ссылка на репозиторий:  https://github.com/GulnazaS/capy_bot
-* Распознавание фейковых новостей
-  Ссылка на репозиторий: https://github.com/GulnazaS/Fake-or-real-news
-* Определение болезни Паркинсона
-  Ссылка на репозиторий: https://github.com/GulnazaS/parkinsons-disease-detector
-
  
- | Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+ | Название проекта | Цель проекта | Используемый стек | Ссылка на репозиторий | 
+| --- | --- |--- | --- |
+| Классификатор снимков флюорографии | Определение пневмонии на снимках флюорографии при помощи полносвязного персептрона | python, Matplotlib, Pandas, Seaborn, Tensorflow, Keras | https://github.com/GulnazaS/test_case |
+| Чат-бот в телеграм | Квиз в телеграм, приобщающий к расширению кругозора о капибарах | aiosqlite, asyncio, aiogram, python | https://github.com/GulnazaS/capy_bot/tree/master |
+| Распознавание фейковых новостей | Распознавание фейковых новостей на основе их заголовков при помощи моделимашинного обучения | python, numpy, pandas, seaborn, matplotlib.pyplot, sklearn, log_regression | https://github.com/GulnazaS/Fake-or-real-news|
+| Определение болезни Паркинсона |  Определение болезни Паркинсона при помощи моделимашинного обучения  | python, numpy, pandas, seaborn, matplotlib.pyplot, sklearn, xgboost | https://github.com/GulnazaS/parkinsons-disease-detector |
   
 ### :hammer_and_wrench: Языки программирования и Стек :
 <div>
