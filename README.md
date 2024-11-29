@@ -19,7 +19,11 @@
  
  | Название проекта | Цель проекта | Используемый стек | Ссылка на репозиторий | 
 | --- | --- |--- | --- |
-| Классификатор снимков флюорографии | Определение пневмонии на снимках флюорографии при помощи полносвязного персептрона | python, Matplotlib, Pandas, Seaborn, Tensorflow, Keras | https://github.com/GulnazaS/test_case |
+| Исправление ошибок| Интерфейс, в котором можно исправить орфографические и синтаксические ошибки в документах.| python, langchain, sentencepiece accelerate, peft , transformers, torch, gradio | https://github.com/GulnazaS/Deploy_model |
+| NeMoGuardrails для RAG-системы| Сервис позволит разработчикам устанавливать три типа границ: тематические, безопасности и охраняющие.| python, llama, unstructured, nemoguardrails, langchain_core | https://github.com/GulnazaS/NeMoGuardrails-for-RAG-systems |
+| Создание нейросотрудника| Нейроконсультант, помогающий отвечать на вопросы по теме "Теория хранилищ данных"| python, langchain, sentence-transformers, gradio, requests, tiktoken | https://github.com/GulnazaS/NeuroEmployee |
+| Обучение модели Unet ++| Сегментация медицинских изображений | python, Matplotlib, Pandas, Seaborn, Tensorflow, Keras, sklearn, skimage | https://github.com/GulnazaS/Unet-learning |
+| Классификатор снимков флюорографии | Определение пневмонии на снимках флюорографии при помощи полносвязного персептрона | python, Matplotlib, Pandas, Seaborn, Tensorflow, Keras |https://github.com/GulnazaS/test_case |
 | Чат-бот в телеграм | Квиз в телеграм, приобщающий к расширению кругозора о капибарах | aiosqlite, asyncio, aiogram, python | https://github.com/GulnazaS/capy_bot/tree/master |
 | Распознавание фейковых новостей | Распознавание фейковых новостей на основе их заголовков при помощи моделимашинного обучения | python, numpy, pandas, seaborn, matplotlib.pyplot, sklearn, log_regression | https://github.com/GulnazaS/Fake-or-real-news|
 | Определение болезни Паркинсона |  Определение болезни Паркинсона при помощи моделимашинного обучения  | python, numpy, pandas, seaborn, matplotlib.pyplot, sklearn, xgboost | https://github.com/GulnazaS/parkinsons-disease-detector |
