@@ -24,7 +24,7 @@
 | Распознавание фейковых новостей | Распознавание фейковых новостей на основе их заголовков при помощи моделимашинного обучения | python, numpy, pandas, seaborn, matplotlib.pyplot, sklearn, log_regression | https://github.com/GulnazaS/Fake-or-real-news|
 | Определение болезни Паркинсона |  Определение болезни Паркинсона при помощи моделимашинного обучения  | python, numpy, pandas, seaborn, matplotlib.pyplot, sklearn, xgboost | https://github.com/GulnazaS/parkinsons-disease-detector |
   
-### :hammer_and_wrench: Языки программирования и Стек :
+### :hammer_and_wrench: Языки программирования и Стек
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line-wordmark.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
