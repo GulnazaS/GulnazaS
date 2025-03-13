@@ -20,6 +20,7 @@
  | Название проекта | Цель проекта | Используемый стек | Ссылка на репозиторий | 
 | --- | --- |--- | --- |
 | Image2Latex| Нейросеть архитектуры Seq2seq, которая по изображениям формул, переводит их в Latex-формат| python, torch, torchvision, mobilenet_v2 , sklearn.model_selectio, numpy , pandas, tensorflow.keras, matplotlib, PIL, json, tarfile, chardet | https://github.com/GulnazaS/image2latex|
+|Header's generation| Дообучение GPT на русскрязычном датасете lenta.ru для решения задачи суммаризации| python, torch, kagglehub, pandas , sklearn.model_selectio, numpy , GPT2LMHeadModel, GPT2Tokenizer, TextDataset, DataCollatorForLanguageModeling, Trainer, TrainingArguments|https://github.com/GulnazaS/Header-s-generation|
 | Исправление ошибок| Интерфейс, в котором можно исправить орфографические и синтаксические ошибки в документах.| python, langchain, sentencepiece accelerate, peft , transformers, torch, gradio | https://github.com/GulnazaS/Deploy_model |
 | NeMoGuardrails для RAG-системы| Сервис позволит разработчикам устанавливать три типа границ: тематические, безопасности и охраняющие.| python, llama, unstructured, nemoguardrails, langchain_core | https://github.com/GulnazaS/NeMoGuardrails-for-RAG-systems |
 | Создание нейросотрудника| Нейроконсультант, помогающий отвечать на вопросы по теме "Теория хранилищ данных"| python, langchain, sentence-transformers, gradio, requests, tiktoken | https://github.com/GulnazaS/NeuroEmployee |
